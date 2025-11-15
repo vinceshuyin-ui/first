@@ -1,2 +1,2 @@
 # first
-creating my first git
+print("hello world")
